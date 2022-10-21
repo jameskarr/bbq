@@ -33,7 +33,6 @@ hr {
 header {
   height: 15vh;
   display: flex;
-  background: rgb(232, 244, 240);
 }
 .headerLogo {
   width: 25%;
